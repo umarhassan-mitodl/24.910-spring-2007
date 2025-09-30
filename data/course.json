@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ]
+  ],
+  "legacy_uid": "3d549166-dc4e-32dc-a116-d9e4bf82e697",
+  "instructors": {
+    "content": [
+      "29b32028-314d-55a5-e5a8-7770ba8ab63a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6d1e9c53-38ca-8490-a861-a8b27a0f0a9b",
+    "website": "24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007"
+  },
+  "course_title": "Topics in Linguistic Theory: Laboratory Phonology",
+  "hide_download": true,
+  "course_description": "The goal of this course is to prepare you to engage in experimental investigations of questions related to linguistic theory, focusing on phonetics and phonology.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.910",
+  "course_image_thumbnail": {
+    "content": "57827eea-394f-370b-dd33-649bd1cab6cc",
+    "website": "24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments with Examples",
+    "Media Assignments with Examples"
+  ],
+  "site_uid": "4b3e5a90-0134-40b4-af12-f5a934d5a180",
+  "site_short_id": "24.910-spring-2007",
+  "site_url_path": "courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007",
+  "title": "Course Metadata"
+}
