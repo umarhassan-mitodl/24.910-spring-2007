@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information about the course textbook and the list
   of readings by lecture session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -129,7 +127,7 @@ Ladefoged, Peter. _Elements of Acoustic Phonetics_. 2nd ed. Chicago, IL: Univers
 
 Wright, R. "A Review of Perceptual Cues and Cue Robustness." In _Phonetically-Based Phonology_. Edited by Bruce Hayes, Robert Kirchner, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788.
 
-Steriade, Donca. "Alternatives to Syllable-Based Accounts of Consonantal Phonotactics." _Proceedings of LP '98: Item Order in Language and Speech_. Edited by Fujimura, Osamu, Brian D. Joseph, and Bohumil Palek. Prague, Czech Republic: Karolinum Press, 1999, pp. 205-245. ISBN: 9788024600161. \[([PDF](http://www.linguistics.ucla.edu/people/steriade/papers/Alternatives_to_Syllables.pdf)): Read pp. 1-21\]
+Steriade, Donca. "Alternatives to Syllable-Based Accounts of Consonantal Phonotactics." _Proceedings of LP '98: Item Order in Language and Speech_. Edited by Fujimura, Osamu, Brian D. Joseph, and Bohumil Palek. Prague, Czech Republic: Karolinum Press, 1999, pp. 205-245. ISBN: 9788024600161. \[({{% resource_link "af183778-344c-413a-b4ba-7ba12fcb8396" "PDF" %}}): Read pp. 1-21\]
 
 McMurray, B., M. K. Tanenhaus, and R. N. Aslin. "Gradient Effects of Within-Category Phonetic Variation on Lexical Access." _Cognition_ 86, no. 2 (2002): B33-B42.
 
@@ -183,17 +181,17 @@ The meaning of intonation
 {{< tdopen >}}
 
 
-Beckman Mary E., and Gayle Ayers Elam. [Guidelines for ToBI labeling](http://www.ling.ohio-state.edu/research/phonetics/E_ToBI/). Manuscript, Ohio State University, 1997.
+Beckman Mary E., and Gayle Ayers Elam. {{% resource_link "19da42f5-5e8a-4978-82b3-5ca180e27518" "Guidelines for ToBI labeling" %}}. Manuscript, Ohio State University, 1997.
 
 Welby, Pauline. "Effects of Pitch Accent Position, Type, and Status on Focus Projection." _Language and Speech_ 46 (2003): 53-81.
 
 Selkirk, Elisabeth. "Sentence Prosody: Intonation, Stress, and Phrasing." In _The Handbook of Phonological Theory_. Edited by J. Goldsmith. Malden, MA: Blackwell, 1995. ISBN: 9780631180623.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262031509) Hobbs, J. R. "The Pierrhumbert-Hirschberg Theory of Intonational Meaning Made Simple: Comments on Pierrehumbert and Hirschberg." In [_Intentions in Communication_](https://mitpress.mit.edu/9780262031509). Edited by Philip R. Cohen, Jerry Morgan, and Martha E. Pollack. Cambridge, MA: MIT Press, 1990, chapter 15. ISBN: 9780262031509.
+{{% resource_link "0e9ec65b-079f-4a91-b978-8446ff143b46" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hobbs, J. R. "The Pierrhumbert-Hirschberg Theory of Intonational Meaning Made Simple: Comments on Pierrehumbert and Hirschberg." In {{% resource_link "0e9ec65b-079f-4a91-b978-8446ff143b46" "_Intentions in Communication_" %}}. Edited by Philip R. Cohen, Jerry Morgan, and Martha E. Pollack. Cambridge, MA: MIT Press, 1990, chapter 15. ISBN: 9780262031509.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262031509) Pierrehumbert, J., and J. Hirshberg. "The Meaning of Intonational Contours in the Interpretation of Discourse. "In [_Intentions in Communication_](https://mitpress.mit.edu/9780262031509). Edited by Philip R. Cohen, Jerry Morgan, and Martha E. Pollack. Cambridge, MA: MIT Press, 1990. ISBN: 9780262031509.
+{{% resource_link "0e9ec65b-079f-4a91-b978-8446ff143b46" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pierrehumbert, J., and J. Hirshberg. "The Meaning of Intonational Contours in the Interpretation of Discourse. "In {{% resource_link "0e9ec65b-079f-4a91-b978-8446ff143b46" "_Intentions in Communication_" %}}. Edited by Philip R. Cohen, Jerry Morgan, and Martha E. Pollack. Cambridge, MA: MIT Press, 1990. ISBN: 9780262031509.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262600071) Jackendoff, R. [_Semantic Interpretation in Generative Grammar_](https://mitpress.mit.edu/9780262600071). Cambridge, MA: MIT Press, 1974, chapter 6. ISBN: 9780262600071.
+{{% resource_link "2535ada8-a6b5-4e71-980c-d1ef7ea68fa5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jackendoff, R. {{% resource_link "2535ada8-a6b5-4e71-980c-d1ef7ea68fa5" "_Semantic Interpretation in Generative Grammar_" %}}. Cambridge, MA: MIT Press, 1974, chapter 6. ISBN: 9780262600071.
 
 
 {{< tdclose >}}
@@ -243,7 +241,7 @@ Phonetics and phonology of accent variation
 
 Labov, Wiliam, Sharon Ash, and Charles Boberg. _The Atlas of North American English_. New York, NY: Mouton de Gruyter, 2006. ISBN: 9783110167467.
 
-[TELSUR Project](http://www.ling.upenn.edu/phono_atlas/home.html) at the Linguistics Laboratory, University of Pennsylvania
+{{% resource_link "6e0806e8-46e1-449b-ab84-64743bb9ecd9" "TELSUR Project" %}} at the Linguistics Laboratory, University of Pennsylvania
 
 Norris, Dennis, James McQueen, and Anne Cutler. "Perceptual Learning in Speech." _Cognitive Psychology_ 47, no. 2 (2003): 204-238.
 
